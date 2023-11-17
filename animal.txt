@@ -1,0 +1,17 @@
+class Animal:
+  def  __init__(self,name,age):
+         self.name=name
+         self.age=age
+ def display(self):
+        pass
+class Carnivous:
+ def dog(self,name,age,shout)
+        self.shout=shout
+      super .__init__(name,age)
+ def display(self)
+       pass
+a=Animal("buddy",3)
+print(a.display())
+age=Carnivous("bow")
+print(a.display())
+
